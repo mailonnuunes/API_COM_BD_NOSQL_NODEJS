@@ -1,2 +1,2 @@
-# API_COM_BD_NOSQL_NODEJS
- criando api com bd nosql com mongo.
+# API-SEM-BD-NODEJS
+ API usando arrays para fazer get,post, delete etc. Sem o uso de BD
